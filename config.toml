@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://github.com/1look4/herewego/"
+baseURL = "https://github.com/1look4/daily/"
 languageCode = "en-us"
 summaryLength = "10"
 # theme = "kross-hugo"
