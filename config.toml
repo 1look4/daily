@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "http://timepa/"
+baseURL = "https://github.com/1look4/herewego/"
 languageCode = "en-us"
 summaryLength = "10"
 # theme = "kross-hugo"
