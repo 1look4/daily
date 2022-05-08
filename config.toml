@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://github.com/1look4/daily/"
+baseURL = "https://1look4.github.io/daily/"
 languageCode = "en-us"
 summaryLength = "10"
 # theme = "kross-hugo"
