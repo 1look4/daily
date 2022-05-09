@@ -3,7 +3,7 @@ baseURL = "https://1look4.github.io/maywood/"
 languageCode = "en-us"
 summaryLength = "10"
 # theme = "kross-hugo"
-title = "HereWeGo"
+title = "Maywood"
 
 # css plugins
 [[params.plugins.css]]
