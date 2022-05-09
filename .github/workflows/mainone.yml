@@ -27,6 +27,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: master # deploying branch
-          cname: bhumi.xyz
+          cname: https://1look4.github.io/maywood
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
