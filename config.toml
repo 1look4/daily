@@ -52,7 +52,7 @@ weight = 4
 # default parameters
 [params]
 home = "Home"
-logo = "maywood"
+# logo = "maywood"
 # theme color
 theme_color = "#003399"
 # contact info
